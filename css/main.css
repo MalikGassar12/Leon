@@ -174,7 +174,7 @@ body{
 
 /* Start landing section  */
 .landing {
-    background-image: url(leon/images/focused_196865906-stock-photo-black-white-image-snow-covered.jpg);
+    background-image: url(/leon/images/focused_196865906-stock-photo-black-white-image-snow-covered.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
